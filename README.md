@@ -1,2 +1,2 @@
-# CakeFest2017
-Source code for presentation "CakePHP Prepared Statements Ease MySQL Table Design"
+# Pacific Northwest PHP 2017
+Source code for workshop presentation "Microservices: The Strangler Pattern"
